@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <title>Login - Simahaswa</title>
+    <title>Login - SiKie</title>
 
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,300,400,600,700,800,900"
           rel="stylesheet">
@@ -25,7 +25,7 @@
                         {{-- Header --}}
                         <div class="text-center mb-4">
                             <i class="fas fa-graduation-cap fa-3x text-primary mb-3"></i>
-                            <h1 class="h4 text-gray-900 mb-1 font-weight-bold">Simahaswa</h1>
+                            <h1 class="h4 text-gray-900 mb-1 font-weight-bold">SiKie</h1>
                             <p class="text-muted small">
                                 Sistem Informasi Manajemen Mahasiswa
                             </p>
@@ -85,7 +85,7 @@
                         <hr>
                         <div class="text-center">
                             <small class="text-muted">
-                                Demo: admin@simahaswa.com / password123
+                                Gmail-pw: kiki7@gmail.com / kiki123
                             </small>
                         </div>
 

@@ -10,7 +10,7 @@ class AppServiceProvider extends ServiceProvider
 {
     public function boot(): void
     {
-        // Gunakan template pagination Bootstrap 4
+        // Sudah ditambahkan di Bab 7 untuk styling Bootstrap 4
         Paginator::useBootstrapFour();
     }
 }

@@ -13,11 +13,11 @@ class UserSeeder extends Seeder
     {
         User::create([
             'name'     => 'kikiexaa7',
-            'email'    => 'kiki7@gmail.com',
+            'email'    => 'kie@gmail.com',
             'password' => Hash::make('kiki123'), // WAJIB di-hash!
         ]);
 
         $this->command->info('UserSeeder: Akun admin berhasil dibuat.');
-        $this->command->info('Login: kiki7@gmail.com | kiki123');
+        $this->command->info('Login: kie@gmail.com | kiki123');
     }
 }
